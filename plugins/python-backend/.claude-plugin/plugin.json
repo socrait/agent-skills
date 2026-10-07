@@ -1,0 +1,8 @@
+{
+  "name": "python-backend",
+  "version": "0.1.0",
+  "description": "Code-review skills for Python web backends (FastAPI, SQLAlchemy, Pydantic): a full review that coordinates data-access, design, security, resilience, testing, and performance specialists.",
+  "author": { "name": "Socrait, PBC" },
+  "license": "MIT",
+  "keywords": ["code-review", "python", "fastapi", "sqlalchemy", "pydantic", "security", "testing"]
+}

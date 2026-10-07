@@ -1,0 +1,14 @@
+{
+  "name": "socrait-agent-skills",
+  "owner": { "name": "Socrait, PBC" },
+  "metadata": {
+    "description": "Agent skills from Socrait, PBC."
+  },
+  "plugins": [
+    {
+      "name": "python-backend",
+      "source": "./plugins/python-backend",
+      "description": "Code-review skills for Python web backends (FastAPI, SQLAlchemy, Pydantic)."
+    }
+  ]
+}
